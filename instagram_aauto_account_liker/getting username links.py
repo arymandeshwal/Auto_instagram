@@ -71,7 +71,7 @@ class Instagram:
 # In[4]:
 
 
-usernmae,password,hashtag ='_fifty_shades_of_us_','Aryman9811605301','fitness'
+usernmae,password ='',''
 ins = Instagram(usernmae,password)
 ins.login()
 username_links =[]
