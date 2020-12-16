@@ -108,7 +108,7 @@ class Instagram:
 # In[23]:
 
 
-usernmae,password ='_fifty_shades_of_us_','Aryman9811605301'
+usernmae,password ='',''
 ins = Instagram(usernmae,password)
 ins.login()
 try:
