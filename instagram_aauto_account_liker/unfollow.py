@@ -10,7 +10,7 @@ from instapy import InstaPy
 # In[2]:
 
 
-session = InstaPy(username="_fifty_shades_of_us_", password="Aryman9811605301")
+session = InstaPy(username="", password="")
 
 
 # In[3]:
