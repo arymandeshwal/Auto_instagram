@@ -80,7 +80,7 @@ class Hootsuite:
 
 #Starting the code
 h = Hootsuite()
-h.login("aryman.deshwal235@gmail.com","Aryman9910390504")
+h.login("","")
 h.create_post()
 #h.send_post_details(path)
 
